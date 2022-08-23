@@ -1,4 +1,4 @@
-# Collab Practice with Corbin
+# Collab Practice
 ## Description
 A collaborative project with Corbin Whiting to learn more about Bootstrap and working with others on Github!
 
