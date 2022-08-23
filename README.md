@@ -1,9 +1,9 @@
-# Bootstrap Template
+# Collab Practive (Corbin)
 ## Description
-Bootstrap template is used for other projects as a boilerplate.
+A collaborative project with Corbin Whiting to learn more about Bootstrap and working with others on Github!
 
 ## Contributing
-Issue Tracker: github.com/Ernesto-Vaquilar/bootstrap-template/issues
+Issue Tracker: https://github.com/Ernesto-Vaquilar/collab-practice-corbin/issues
 
 ## Licensing
 MIT
